@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: aa462bb700f2d584e9df11fa0ef0b089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6276511435505804421
+    second: TrialEnemy_Down
+  - first:
+      213: 5389903677817030642
+    second: TrialEnemy_Down_Up
+  - first:
+      213: 133095735090284578
+    second: TrialEnemy_2
+  - first:
+      213: -3039594060340991955
+    second: TrialEnemy_3
+  - first:
+      213: -7319622090328859070
+    second: TrialEnemy_4
+  - first:
+      213: 8074489495400554613
+    second: TrialEnemy_5
+  - first:
+      213: 7341027152366191609
+    second: TrialEnemy_6
+  - first:
+      213: -3759703938491147840
+    second: TrialEnemy_7
+  - first:
+      213: 5718312250465353527
+    second: TrialEnemy_8
+  - first:
+      213: 7874932144022076950
+    second: TrialEnemy_9
+  - first:
+      213: -6015345883893583936
+    second: TrialEnemy_10
+  - first:
+      213: 4137792005412425013
+    second: TrialEnemy_11
+  - first:
+      213: 9174389938124698095
+    second: TrialEnemy_12
+  - first:
+      213: 6898402905051397658
+    second: TrialEnemy_13
+  - first:
+      213: -1707709155555599879
+    second: TrialEnemy_14
+  - first:
+      213: 5881994940071688090
+    second: TrialEnemy_15
+  - first:
+      213: -55369224020544070
+    second: TrialEnemy_16
+  - first:
+      213: 2854562746488549481
+    second: TrialEnemy_17
+  - first:
+      213: -3929473495034654397
+    second: TrialEnemy_18
+  - first:
+      213: 2975577420340619107
+    second: TrialEnemy_19
+  - first:
+      213: -7577424755580356338
+    second: TrialEnemy_20
+  - first:
+      213: 2981024433513994753
+    second: TrialEnemy_21
+  - first:
+      213: -5241457429622425218
+    second: TrialEnemy_22
+  - first:
+      213: -9123452175738761326
+    second: TrialEnemy_23
+  - first:
+      213: 5846171929881550355
+    second: TrialEnemy_24
+  - first:
+      213: 660064708840540606
+    second: TrialEnemy_25
+  - first:
+      213: -4119699218347537543
+    second: TrialEnemy_26
+  - first:
+      213: -1327132941999124082
+    second: TrialEnemy_27
+  - first:
+      213: -8122539238685296454
+    second: TrialEnemy_28
+  - first:
+      213: 1549957439642911814
+    second: TrialEnemy_29
+  - first:
+      213: -1827986651059011084
+    second: TrialEnemy_30
+  - first:
+      213: -979160093382475281
+    second: TrialEnemy_31
+  - first:
+      213: -3470742810765443753
+    second: TrialEnemy_32
+  - first:
+      213: -1956575212734000941
+    second: TrialEnemy_33
+  - first:
+      213: 4083197877346637694
+    second: TrialEnemy_34
+  - first:
+      213: 4736950346615858487
+    second: TrialEnemy_35
+  - first:
+      213: 3979843640190003473
+    second: TrialEnemy_36
+  - first:
+      213: -8797536847614917186
+    second: TrialEnemy_37
+  - first:
+      213: 5155844646943275483
+    second: TrialEnemy_38
+  - first:
+      213: -3660546588730763442
+    second: TrialEnemy_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrialEnemy_Down
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdff19a1a55e8a0800000000000000
+      internalID: -6276511435505804421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_Down_Up
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70bd986d8ccca40800000000000000
+      internalID: 5389903677817030642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280d2badd9d8d100800000000000000
+      internalID: 133095735090284578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 112
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ecfb7e4131d5d0800000000000000
+      internalID: -3039594060340991955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 112
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e98d76d7a7b6a90800000000000000
+      internalID: -7319622090328859070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 112
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57029f36a695e0070800000000000000
+      internalID: 8074489495400554613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c847fc4190e560800000000000000
+      internalID: 7341027152366191609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9199d0039d2dbc0800000000000000
+      internalID: -3759703938491147840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f70c3e1b68b5f40800000000000000
+      internalID: 5718312250465353527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 75
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebdb2df01694d60800000000000000
+      internalID: 7874932144022076950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf2a6d0ac2358ca0800000000000000
+      internalID: -6015345883893583936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 75
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0f0de7e36c6930800000000000000
+      internalID: 4137792005412425013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe137dc6a0bf15f70800000000000000
+      internalID: 9174389938124698095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7c1194ec0cbf50800000000000000
+      internalID: 6898402905051397658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91d63229ffc48e0800000000000000
+      internalID: -1707709155555599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 38
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a973e9ddb3b01a150800000000000000
+      internalID: 5881994940071688090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab534ceebf94b3ff0800000000000000
+      internalID: -55369224020544070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 38
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960738d91b17d9720800000000000000
+      internalID: 2854562746488549481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341952eeca4b779c0800000000000000
+      internalID: -3929473495034654397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367631506ef5b4920800000000000000
+      internalID: 2975577420340619107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b16be45497d690800000000000000
+      internalID: -7577424755580356338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9c5a9de9be5920800000000000000
+      internalID: 2981024433513994753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f50afc3a9247b0800000000000000
+      internalID: -5241457429622425218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrialEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f83d3959cf26180800000000000000
+      internalID: -9123452175738761326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
